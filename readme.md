@@ -5,10 +5,12 @@ Git.
 
 ## Arquivos
 
-- README.md
+° README.md
 
-- index.html
+° index.html
 
-- style.css
+° style.css
 
-- script.js
+° script.js
+
+° Aprendizados
