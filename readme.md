@@ -14,3 +14,5 @@ Git.
 ° script.js
 
 ° Aprendizados
+
+Projeto de Git - versão B
