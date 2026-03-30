@@ -15,4 +15,4 @@ Git.
 
 ° Aprendizados
 
-Projeto de Git - versão B
+resolve conflito
